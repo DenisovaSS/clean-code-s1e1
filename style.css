@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-.example-container { text-align: center;
+.example-container { 
+  text-align: center;
 }
 }
 .todo-container {
